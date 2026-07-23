@@ -1,18 +1,9 @@
-# CHZZK / Naver
-DOMAIN,chzzk.naver.com
-DOMAIN,m.chzzk.naver.com
-DOMAIN,studio.chzzk.naver.com
-DOMAIN,developers.chzzk.naver.com
-DOMAIN,api.chzzk.naver.com
-DOMAIN,comm-api.game.naver.com
-DOMAIN,apis.naver.com
-DOMAIN,nid.naver.com
-
-# Chat / WebSocket
-DOMAIN-SUFFIX,nchat.naver.com
-DOMAIN-SUFFIX,chat.naver.com
-
-# Live / Replay / Static resources
-DOMAIN-SUFFIX,navercdn.com
-DOMAIN,livecloud.akamaized.net
-DOMAIN-SUFFIX,pstatic.net
++.chzzk.naver.com
++.comm-api.game.naver.com
++.apis.naver.com
++.nid.naver.com
++.nchat.naver.com
++.chat.naver.com
++.navercdn.com
++.livecloud.akamaized.net
++.pstatic.net
